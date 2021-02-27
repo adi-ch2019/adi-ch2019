@@ -14,4 +14,4 @@
 - 🤔 I’m looking for help with OSS projects
 - 📫 How to reach me: https://www.linkedin.com/in/adityanaidu2020/
 - 😄 Pronouns: Reader Rider and Writer
-- ⚡ Fun fact: history Reader enfield Rider and blog Writer. Since this is git so yes CODing as well 
+- ⚡ Fun fact: history Reader enfield Rider and blog Writer. 
