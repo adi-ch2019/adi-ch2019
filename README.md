@@ -10,7 +10,7 @@
 
 
 - 🔭 I’m currently working on Azure Networking, Compute and Microservices
-- 👯 I’m looking to collaborate on Angular and .NET 5
+- 👯 I’m looking to collaborate on Angular, .NET 7 and Dockers.
 - 🤔 I’m looking for help with OSS projects
 - 📫 How to reach me: https://www.linkedin.com/in/adityach2022/
 - 😄 Pronouns: Reader Rider and Writer
