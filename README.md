@@ -9,8 +9,8 @@
 <p style="height:1.5em"></p>
 
 
-- 🔭 I’m currently working on Azure Networking, Compute and Microservices
-- 👯 I’m looking to collaborate on Angular, .NET 7 and Dockers.
+- 🔭 I’m currently working on Azure, GCP and automations.
+- 👯 I’m looking to collaborate on FullStack App and Serverless Advocacies.
 - 🤔 I’m looking for help with OSS projects
 - 📫 How to reach me: https://www.linkedin.com/in/adityach2022/
 - 😄 Pronouns: Reader Rider and Writer
