@@ -13,5 +13,5 @@
 - 👯 I’m looking to collaborate on FullStack App and Serverless Advocacies.
 - 🤔 I’m looking for help with OSS projects
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adich2023/)
-- 😄 Adjectives: Reader Rider and Writer
+- 😄 Nouns: Reader Rider and Writer
 - ⚡ Fun fact: history Reader enfield Rider and blog Writer. 
