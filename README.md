@@ -1,7 +1,7 @@
 # Hi there <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Sun.svg" alt="AdityaNaidu" height="35" width="35" /> 
 
 <div style="display:flex">
-<a href="https://www.linkedin.com/in/adich2025/" ><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" alt="AdityaNaidu" height="50" width="50" target="_blank" /></a>&nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/adityahari2025/" ><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" alt="AdityaNaidu" height="50" width="50" target="_blank" /></a>&nbsp; &nbsp;
 <a href="https://adi-ch2019.medium.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="AdityaNaidu" height="50" width="50" /></a>&nbsp; &nbsp;
 <a href="https://stackoverflow.com/users/10760843/aditya" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Stackoverflow_icon.png" alt="AdityaNaidu" height="50" width="50"  /></a>&nbsp; &nbsp;
 </div>
